@@ -21,6 +21,8 @@
 
 SQL · BigQuery · Python · Looker/LookerML · Tableau · dbt-style pipelines · Leaflet · GitHub Actions · TypeScript
 
+Also building for fun: 🎮 **[Pfandjäger](https://ravidvr.github.io/pfandjager/)** (Unity 6 3D lane runner) and **[Pfand Rush](https://ravidvr.github.io/pfand-rush/)** (single-file HTML5) — two Berlin Pfand-bottle games, playable in the browser.
+
 ## Find me
 
 🌐 [ravidvr.github.io](https://ravidvr.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/ravidvr/) · 📫 Open to Senior Data Analyst, Analytics Engineer, and Analytics Lead roles in Berlin.
